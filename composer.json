@@ -1,0 +1,16 @@
+{
+    "name": "fly/rule-engine",
+    "description": "通用规则引擎",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Fly\\RuleEngine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fly"
+        }
+    ],
+    "require": {}
+}
