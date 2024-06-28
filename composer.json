@@ -1,5 +1,5 @@
 {
-    "name": "fly/rule-engine",
+    "name": "fly321/rule-engine",
     "description": "通用规则引擎",
     "type": "library",
     "autoload": {
