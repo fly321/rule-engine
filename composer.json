@@ -12,5 +12,6 @@
             "name": "fly321"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
