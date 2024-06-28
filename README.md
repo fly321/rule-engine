@@ -14,7 +14,7 @@
 1. require composer
 
     ```sh
-    composer require fly/php-rule-engine
+    composer require fly/rule-engine
     ```
    
 
